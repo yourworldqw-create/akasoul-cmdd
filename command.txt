@@ -1,1 +1,2 @@
 # akasoul-cmdd
+IDLE
