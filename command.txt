@@ -1,2 +1,1 @@
-# akasoul-cmdd
-IDLE
+TEST
